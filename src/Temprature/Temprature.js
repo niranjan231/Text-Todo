@@ -16,6 +16,9 @@ const Temprature=()=>{
 <div className="temp-3">
 <h2>52.53'Cel</h2>
 </div>
+<div className="temp-4">
+<p>Min :5.25'Cel | Max :52.56'Cel</p>
+</div>
         </div>
         </div>
     )
